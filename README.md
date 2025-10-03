@@ -1,9 +1,9 @@
 
 # cparvum_ndh2_clofazimine-resistance
 
-## Scripts used for the manuscript ttiled "Widespread genomic heterogeneity at the NAD(P)H dehydrogenase 2 locus predisposes Cryptosporidium to clofazimine resistance"
+Scripts used for the manuscript ttiled "Widespread genomic heterogeneity at the NAD(P)H dehydrogenase 2 locus predisposes Cryptosporidium to clofazimine resistance"
 
-## Here is a collection of python, shell and R script used for varies analysis
+Here is a collection of python, shell and R script used for varies analysis
 
 ## Manuscript Abstract
 
