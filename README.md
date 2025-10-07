@@ -23,7 +23,7 @@ All tools should be available in your `$PATH`:
 | Trim Galore | 0.6.10+ | Read quality trimming |
 | BWA | 0.7.17+ | Short-read DNA alignment |
 | SnpEff | 5.2e | Genetic variant annotation, and functional effect prediction |
-| SnpSift | 2.7.10b+ | Annotated variants manipulation |
+| SnpSift | 5.2e+ | Annotated variants manipulation |
 | samtools | 1.19.2+ | SAM/BAM manipulation |
 | bcftools | 1.20+ | Variant calling and filtering |
 | R | 4.4.2+ | Result visualization through various pkgs |
