@@ -45,7 +45,8 @@ All tools should be available in your `$PATH`:
     snpeff_loop.sh ==> Bash script used for annotating vairants' effect via SnpEff
     snpeff_snpsift.sh ==> Varies commands used for building SnpEff database with Cparvum genome, and preliminary analysis
     snpeff_snpsift_qc_plotting.R ==> R plotting scripts used for QC plots on initial SnpEff outputs
-
+### cmel_analysis
+    cmel_analysis.sh ==> Bash script for commands used to perform AA INDEL analysis with Cmel Illumina reads on newest Cmel ref genome 
 
 ## Citation
 
